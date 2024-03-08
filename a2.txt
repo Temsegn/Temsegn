@@ -1,0 +1,18 @@
+To change the default text editor used by Git Bash, you need to update the Git configuration. Git uses the `core.editor` configuration setting to determine the default text editor. Here's how you can change it:
+
+1. Open Git Bash.
+
+2. Run the following command to set the default text editor:
+   ```
+   git config --global core.editor "editor_name"
+   ```
+   Replace `"editor_name"` with the command or executable of the text editor you want to use. For example, if you want to set Notepad++ as the default editor, you would use:
+   ```
+   git config --global core.editor "notepad++"
+   ```
+
+   Note: Make sure the text editor you specify is in the system's PATH environment variable, so Git can find and use it.
+
+3. Press Enter to execute the command. The Git configuration will be updated with the new default text editor.
+
+From now on, Git will use the specified text editor whenever it needs to open a file for editing, such as when writing commit messages or resolving merge conflicts.
