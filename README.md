@@ -17,10 +17,7 @@ I'm a **Full-Stack Developer** 👨‍💻 and **Flutter Developer** 🦋 passio
 - 💼 Check out my portfolio and projects : (temesgenmarie.com)
 - 💬 Ask me about **Flutter**, **Firebase**, or anything related to full-stack development!
 
-## My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
+ 
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
