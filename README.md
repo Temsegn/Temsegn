@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Temesgen Marie
 
 I'm a **Full-Stack Developer** 👨‍💻 and **Flutter Developer** 🦋 passionate about building innovative and scalable applications. I love working with both front-end and back-end technologies to create seamless, responsive, and user-friendly digital experiences.
 
