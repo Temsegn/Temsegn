@@ -5,7 +5,7 @@ I'm a **Full-Stack Developer** 👨‍💻 and **Flutter Developer** 🦋 passio
 ## Technologies & Tools
 
 - **Frontend**: Flutter 📱, React.js ⚛️, Next.js ⚡
-- **Backend**: Node.js 🌐, Express.js, Firebase 🔥
+- **Backend**: Node.js 🌐, Express.js, Django ,PHP🔥
 - **Databases**: MongoDB 🗃️, Firebase Firestore 🔥
 - **Version Control**: Git & GitHub 🔧
 - **Others**: RESTful APIs, Firebase Authentication 🔑, CI/CD, Agile Development
