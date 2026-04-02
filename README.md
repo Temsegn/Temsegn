@@ -22,7 +22,7 @@ I'm a **Full-Stack Developer** 👨‍💻 and **Flutter Developer** 🦋 passio
 
 - [LinkedIn](https://www.linkedin.com/in/temesgenmarie)
 - [Twitter](https://twitter.com/yourprofile)
-- [Portfolio](https://v0-temesgen-marie-portfolio-six.vercel.app/)
+- [Portfolio](https://temesgenmare.vercel.app)
 - [Blog](#)
 
 Thanks for visiting my profile! 🚀
