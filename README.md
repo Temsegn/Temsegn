@@ -16,9 +16,8 @@ I believe great software is not just about writing code — it's about building 
 
 - **Frontend:** React.js, Next.js
 - **Mobile:** Flutter, Dart
-- **Backend:** Node.js, NestJS, Express.js
-- **Languages:** TypeScript, JavaScript, Python, PHP
-
+- **Backend:** Node.js, NestJS, Express.js, Spring Boot, Go (Golang)
+- **Languages:** TypeScript, JavaScript, Python, Java, Go
 **Databases & Infrastructure**
 
 - **Databases:** PostgreSQL, MongoDB, Firebase Firestore
@@ -29,6 +28,7 @@ I believe great software is not just about writing code — it's about building 
 **Engineering & Architecture**
 
 - RESTful API Design
+- GraphQL API Development
 - Backend Architecture
 - Database Design & Optimization
 - Third-Party API Integrations
